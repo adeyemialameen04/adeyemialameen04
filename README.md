@@ -23,14 +23,6 @@ I'm a Nigerian Frontend developer and content creator building my version of the
 
 #
 
-### 📊 Stats
-
-![Al-ameen Adeyemi stats](https://github-readme-stats.vercel.app/api?username=adeyemialameen04&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=adeyemialameen04&theme=gruvbox&border_radius=4.5) -->
-
-#
-
 <details>
  <summary><h3>👨‍💻 Al-ameen's Coding Journey</h3></summary>
    I started my coding journey as a naive software engineering student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself Frontend development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java so i can become a full-stack developer.
