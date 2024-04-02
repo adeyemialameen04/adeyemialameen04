@@ -1,6 +1,6 @@
 # 🏄‍♂️ Al-ameen Adeyemi
 
-**`Frontend Developer`**
+**`Software engineer`**
 
 I'm a Nigerian Frontend developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
@@ -25,5 +25,9 @@ I'm a Nigerian Frontend developer and content creator building my version of the
 <details>
  <summary><h3>👨‍💻 Al-ameen's Coding Journey</h3></summary>
    I started my coding journey as a naive software engineering student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself Frontend development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java so i can become a full-stack developer.
+</details>
 
-[website]: https://alameenadeyemi.vercel.app/
+#Testing
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adeyemialameen04&theme=dark&card_width=500)](https://git.io/streak-stats)
